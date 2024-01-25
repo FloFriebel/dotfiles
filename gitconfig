@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Florence.Friebel@proton.me
+	name = Florence Friebel
